@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace PracticaGIT_VirtualStudio_AMG2021
 {
     partial class Form1
@@ -46,6 +48,7 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             this.button1.TabIndex = 0;
             this.button1.Text = "Guardar alumno";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // aluNombre
             // 
@@ -114,6 +117,11 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
