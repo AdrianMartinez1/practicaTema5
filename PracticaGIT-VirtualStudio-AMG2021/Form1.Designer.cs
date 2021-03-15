@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace PracticaGIT_VirtualStudio_AMG2021
 {
     partial class Form1
@@ -36,6 +38,8 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.numericUpDown1 = new System.Windows.Forms.NumericUpDown();
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -46,6 +50,7 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             this.button1.TabIndex = 0;
             this.button1.Text = "Guardar alumno";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
             // aluNombre
             // 
@@ -56,7 +61,7 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             // 
             // aluNota
             // 
-            this.aluNota.Location = new System.Drawing.Point(376, 104);
+            this.aluNota.Location = new System.Drawing.Point(385, 131);
             this.aluNota.Name = "aluNota";
             this.aluNota.Size = new System.Drawing.Size(141, 20);
             this.aluNota.TabIndex = 2;
@@ -97,11 +102,19 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             this.label3.TabIndex = 6;
             this.label3.Text = "Nota";
             // 
+            // numericUpDown1
+            // 
+            this.numericUpDown1.Location = new System.Drawing.Point(385, 105);
+            this.numericUpDown1.Name = "numericUpDown1";
+            this.numericUpDown1.Size = new System.Drawing.Size(50, 20);
+            this.numericUpDown1.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -111,9 +124,15 @@ namespace PracticaGIT_VirtualStudio_AMG2021
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
+        }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
         }
 
         #endregion
@@ -125,6 +144,7 @@ namespace PracticaGIT_VirtualStudio_AMG2021
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.NumericUpDown numericUpDown1;
     }
 }
 
