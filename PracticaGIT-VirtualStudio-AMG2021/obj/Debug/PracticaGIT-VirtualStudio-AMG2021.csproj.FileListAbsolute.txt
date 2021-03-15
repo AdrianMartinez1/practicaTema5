@@ -1,0 +1,10 @@
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\bin\Debug\PracticaGIT-VirtualStudio-AMG2021.exe.config
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\bin\Debug\PracticaGIT-VirtualStudio-AMG2021.exe
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\bin\Debug\PracticaGIT-VirtualStudio-AMG2021.pdb
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT-VirtualStudio-AMG2021.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT_VirtualStudio_AMG2021.Form1.resources
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT_VirtualStudio_AMG2021.Properties.Resources.resources
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT-VirtualStudio-AMG2021.csproj.GenerateResource.cache
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT-VirtualStudio-AMG2021.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT-VirtualStudio-AMG2021.exe
+C:\Users\adria\source\repos\AdrianMartinez1\practicaTema5\PracticaGIT-VirtualStudio-AMG2021\obj\Debug\PracticaGIT-VirtualStudio-AMG2021.pdb
